@@ -1,0 +1,47 @@
+{
+    "ideology_map": {
+        "Stormfront":               "far_right",
+        "White Nations":            "far_right",
+        "Vanguard News Network":    "far_right",
+        
+        "Kiwi Farms":                "alt_right",
+        "Lolcow":                   "alt_right",
+        
+        "Christogenea":             "religious_extremist",
+        
+        "Incelsis":                 "manosphere_incel",
+        "Incelsnet":                "manosphere_incel",
+        "Looksmax":                 "manosphere_incel",
+        "Lookism":                  "manosphere_incel",
+        "Looks Theory":             "manosphere_incel",
+        
+        "Roosh V":                  "manosphere_pua",
+        "Pickup Artist":            "manosphere_pua",
+        
+        "Men Going Their Own Way":  "manosphere_mgtow",
+        "Going Your Own Way":       "manosphere_mgtow",
+        
+        "isis_supporter":           "jihadist",
+        "counter_narrative":        "counter_extremism"
+    },
+    
+    "telegram_channels": {
+        "Proud Boys":               "far_right",
+        "PragerU":               "far_right",
+        "Benny Johnson":        "far_right",
+        "Ben Shapiro Gang":        "far_right",
+        "Patriot Front":   "far_right",
+        "Kiwi Farms Chat":   "alt_right"
+    },
+    
+    "discord_servers": {
+        "Traditional Catholicism":  "religious_extremist",
+        "Let'sGoCommitGenocide!": "far_right",
+        "Nick Ghurr":        "far_right",
+        "Goy Talk":  "far_right",
+        "Nazi Weeb Gamers":         "far_right_accelerationist",
+        "Concentration Camp":  "far_right",
+        "Stephen's epic based and redpilled server": "manosphere_incel"
+    }
+  }
+  
